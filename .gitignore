@@ -1,0 +1,19 @@
+# 编译数据库和缓存
+db/
+incremental_db/
+output_files/
+
+# 本地界面状态
+*.qws
+
+# 可重新生成的报告和产物
+*.rpt
+*.summary
+*.done
+*.pin
+*.sof
+*.pof
+
+# 编辑器备份
+*.bak
+*~
